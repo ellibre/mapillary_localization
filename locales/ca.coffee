@@ -204,7 +204,7 @@ i18nIm:
   imageRotated: "La imatge està girada"
   imageNotBlurred: "La imatge no s'ha emborronat correctament"
   imageShouldHide: "La imatge hauria d'estar oculta"
-  sequenceShouldSplit: "La seqüència s'ha de dividir aquí"
+  sequenceShouldSplit: "La seqüència s'ha de dividir després d'aquesta imatge"
   ifMapillaryUser: "Si ets un usuari Mapillary, pots amagar la imatge de forma manual des de les opcions d'imatge a 'Editar'"
   send: "Enviar"
   panorama: "Panorama"
